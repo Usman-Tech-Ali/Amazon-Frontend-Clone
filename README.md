@@ -16,11 +16,21 @@ HTML5
 
 CSS3
 
-# Getting Started 
+# Getting Started
 
 To view this project locally, follow these steps:
 
- 1. Clone the repository:
-     
- 3. 
+1.  Clone the repository:
+    git clone https://github.com/Usman-Tech-Ali/Amazon-Frontend-Clone.git
+2.  Run index.html file to view the website
+
+# Contributing
+
+Fork the repository.
+Create a new branch
+Make your changes.
+Commit your changes
+Push to the branch
+Open a Pull Request.
+
  
