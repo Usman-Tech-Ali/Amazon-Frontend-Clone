@@ -27,10 +27,15 @@ To view this project locally, follow these steps:
 # Contributing
 
 Fork the repository.
+
 Create a new branch
+
 Make your changes.
+
 Commit your changes
+
 Push to the branch
+
 Open a Pull Request.
 
  
