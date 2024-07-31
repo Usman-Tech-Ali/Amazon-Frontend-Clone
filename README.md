@@ -5,12 +5,15 @@ This project is a frontend clone of the Amazon website, created using HTML, CSS 
 # Features
 
 Home Page
+
 Product Detail Page
+
 Shopping Cart
 
 # Technologies Used
 
 HTML5
+
 CSS3
 
 # Getting Started 
@@ -18,4 +21,6 @@ CSS3
 To view this project locally, follow these steps:
 
  1. Clone the repository:
+     
+ 3. 
  
